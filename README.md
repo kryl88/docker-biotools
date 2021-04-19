@@ -2,8 +2,8 @@
 
 Docker-image contains following programmes:
 
-1. Samtools-1.12
-2. Biobambam2-2.0.182
+1. <a href="http://www.htslib.org">Samtools-1.12</a>
+2. <a href="https://gitlab.com/german.tischler/biobambam2">Biobambam2-2.0.182</a>
 
 Commands for building and running docker-image interactively:
 
